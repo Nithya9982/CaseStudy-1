@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(to left, #ffcccc 0%, #66ffff 100%);
+}
+.text_images_and_result{
+    color: #000066;
+    font-family: 'Amatic SC', cursive;
+}
+img{
+    box-shadow: 5px  5px 18px black;
+    height : 250px;
+    width: 280px;
+}
